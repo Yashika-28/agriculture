@@ -26,6 +26,10 @@ agriculture/
 ├── package-lock.json # Dependency lock file
 ├── requirements.txt # Python dependencies
 ```
+## Project screenshots
+
+<img width="1135" height="612" alt="image" src="https://github.com/user-attachments/assets/1c7dba37-f8f7-4ddb-9414-d4bd33f93dff" />
+
 ---
 
 ## 🛠️ Technologies Used
