@@ -51,22 +51,22 @@ cd agriculture
 ```bash
 npm install
 ```
-###3️⃣ Install Python Dependencies
+### 3️⃣ Install Python Dependencies
 ```
 pip install -r requirements.txt
 ```
-###▶️ Running the Project
+### ▶️ Running the Project
 
 Start the chatbot application:
 ```
 npm start
 ```
 
-###🧪 Running Tests
+### 🧪 Running Tests
 ```
 npm test
 ```
-##🎯 Use Cases
+## 🎯 Use Cases
 
 - Helping farmers with crop-related queries
 
@@ -76,7 +76,7 @@ npm test
 
 - Smart agriculture assistant applications
 
-##🚀 Future Improvements
+## 🚀 Future Improvements
 
 - Multi-language support
 
@@ -88,7 +88,7 @@ npm test
 
 - Advanced ML recommendation models
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 Feel free to fork the repository and submit pull requests.
