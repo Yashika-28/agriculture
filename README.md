@@ -2,6 +2,8 @@
 
 An intelligent chatbot designed to assist users with agriculture-related queries such as crop recommendations, farming practices, soil guidance, and general agricultural support. The system combines modern web technologies with backend AI/ML support to provide quick and helpful responses.
 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/df3ce6c3-af4c-4c29-b327-3cca9ed44730" />
+
 ---
 
 ## 📌 Features
@@ -28,7 +30,17 @@ agriculture/
 ```
 ## Project screenshots
 
-<img width="1135" height="612" alt="image" src="https://github.com/user-attachments/assets/1c7dba37-f8f7-4ddb-9414-d4bd33f93dff" />
+Home page:
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/1c7dba37-f8f7-4ddb-9414-d4bd33f93dff" />
+
+Plant health scanner:
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/c276a2df-5ffc-4ef4-a7f4-b1a1ae3dd900" />
+
+Live news:
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/b2fa641a-1e7c-41a7-8335-e535d5144e94" />
+
+Low bandwidth mode:
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/8b15194c-4d0b-47c0-af72-543d452f72de" />
 
 ---
 
